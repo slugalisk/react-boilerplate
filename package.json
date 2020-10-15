@@ -50,5 +50,10 @@
       "style": "module",
       "parser": "typescript"
     }
+  },
+  "dependencies": {
+    "@types/react": "^16.9.52",
+    "bootstrap": "^4.5.3",
+    "google-protobuf": "^3.13.0"
   }
 }

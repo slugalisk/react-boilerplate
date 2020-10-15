@@ -1,0 +1,19 @@
+.order {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+.order-title{
+    background-color: #bd1818;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom: 1px solid black;
+}
+
+.status-active{
+    background-color: darkgreen;
+}
+.status-completed{
+    background-color: greenyellow;
+    // background-image: ; checkmark image behind the order
+}
