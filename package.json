@@ -10,6 +10,7 @@
     "@typescript-eslint/eslint-plugin": "^4.1.1",
     "@typescript-eslint/eslint-plugin-tslint": "^4.1.1",
     "@typescript-eslint/parser": "^4.1.1",
+    "@types/react": "^16.9.53",
     "autoprefixer": "^9.8.6",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^4.3.0",
